@@ -81,8 +81,8 @@ public class FirstProgram {
         }
 
         // Ternary operator (conditional operator)
-        String result = (number % 2 == 0) ? "Even" : "Odd";
-        System.out.println("The number is " + result + ".");
+        String result1 = (number % 2 == 0) ? "Even" : "Odd";
+        System.out.println("The number is " + result1 + ".");
 
 	}
 
